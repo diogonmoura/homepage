@@ -1,0 +1,33 @@
+# diogonmoura.com — robots.txt
+# Static brochure site. Crawling welcome. AI answer engines explicitly allowed.
+
+User-agent: *
+Allow: /
+Disallow: /legal/
+Disallow: /privacy/
+Disallow: /pt/aviso-legal/
+Disallow: /pt/privacidade/
+
+# AI answer engines — explicit allow
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+Sitemap: https://diogonmoura.com/sitemap.xml

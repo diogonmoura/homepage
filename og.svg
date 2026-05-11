@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#0A0A0A"/>
+
+  <!-- Top mark -->
+  <text x="64" y="78"
+        font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif"
+        font-size="20" font-weight="700" letter-spacing="-0.4"
+        fill="#FFFFFF">Diogo N. Moura<tspan fill="#2E5BFF">.</tspan></text>
+
+  <!-- Eyebrow -->
+  <text x="64" y="200"
+        font-family="JetBrains Mono, ui-monospace, SF Mono, Menlo, monospace"
+        font-size="18" letter-spacing="1.2"
+        fill="#7E7E7E">STRATEGY OPERATOR · PORTO · AVAILABLE GLOBALLY</text>
+
+  <!-- Headline -->
+  <text x="64" y="290"
+        font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif"
+        font-size="76" font-weight="800" letter-spacing="-3.4"
+        fill="#FFFFFF">Strategy that</text>
+  <text x="64" y="372"
+        font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif"
+        font-size="76" font-weight="800" letter-spacing="-3.4"
+        fill="#FFFFFF"><tspan fill="#FFFFFF">survives contact</tspan></text>
+  <!-- Underline highlight on "survives contact" -->
+  <rect x="64" y="346" width="600" height="32" fill="#2E5BFF" opacity="0.28"/>
+  <text x="64" y="372"
+        font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif"
+        font-size="76" font-weight="800" letter-spacing="-3.4"
+        fill="#FFFFFF">survives contact</text>
+  <text x="64" y="454"
+        font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif"
+        font-size="76" font-weight="800" letter-spacing="-3.4"
+        fill="#FFFFFF">with the operating model.</text>
+
+  <!-- Bottom rule -->
+  <line x1="64" y1="528" x2="1136" y2="528" stroke="#2C2C2C" stroke-width="1"/>
+
+  <!-- Footer row -->
+  <text x="64" y="572"
+        font-family="JetBrains Mono, ui-monospace, SF Mono, Menlo, monospace"
+        font-size="20" letter-spacing="0.4"
+        fill="#FFFFFF">diogonmoura.com</text>
+
+  <text x="1136" y="572" text-anchor="end"
+        font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif"
+        font-size="20" font-weight="500"
+        fill="#7E7E7E"><tspan fill="#7E7E7E">For scale-up founders · </tspan><tspan fill="#FFFFFF" font-weight="700">Mercedes-Benz.io · EY · Accenture</tspan></text>
+
+  <!-- Accent dot -->
+  <circle cx="1110" cy="78" r="6" fill="#FF4B1F"/>
+</svg>

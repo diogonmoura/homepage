@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Legal notice — Diogo N. Moura</title>
+<meta name="description" content="Publisher identification and legal notice for diogonmoura.com." />
+<meta name="theme-color" content="#FFFFFF" />
+<meta name="robots" content="noindex, follow" />
+<link rel="canonical" href="https://diogonmoura.com/legal/" />
+<!-- PT version hidden pending review (2026-05-11). When restoring: re-add hreflang alternates. -->
+<link rel="alternate" hreflang="en" href="https://diogonmoura.com/legal/" />
+<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+<script>
+  (function(){
+    try{
+      var q = (location.search.match(/[?&]theme=(dark|light)/) || [])[1];
+      var t = q || localStorage.getItem('theme');
+      var p = matchMedia('(prefers-color-scheme: dark)').matches;
+      document.documentElement.dataset.theme = t || (p ? 'dark' : 'light');
+    } catch(e){}
+  })();
+</script>
+<link rel="preconnect" href="https://fonts.bunny.net" crossorigin />
+<link rel="stylesheet" href="https://fonts.bunny.net/css?family=inter:400,500,600,700,800,900|jetbrains-mono:400,500&display=swap" />
+<link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+
+<a class="skip" href="#main">Skip to content</a>
+
+<div class="wrap">
+  <header class="topbar">
+    <a class="mark" href="/">Diogo N. Moura<span class="dot">.</span></a>
+    <nav aria-label="Primary">
+      <a href="/#how">How I work</a>
+      <a href="/#work">Selected work</a>
+      <a href="/#about">About</a>
+      <a href="/#contact">Contact</a>
+      <button class="theme-toggle" type="button" aria-label="Toggle dark mode" onclick="toggleTheme()">
+        <svg class="icon-moon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M14 9.79A6 6 0 1 1 6.21 2 4.5 4.5 0 0 0 14 9.79Z"/>
+        </svg>
+        <svg class="icon-sun" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" aria-hidden="true">
+          <circle cx="8" cy="8" r="3"/>
+          <line x1="8" y1="1" x2="8" y2="2.5"/>
+          <line x1="8" y1="13.5" x2="8" y2="15"/>
+          <line x1="1" y1="8" x2="2.5" y2="8"/>
+          <line x1="13.5" y1="8" x2="15" y2="8"/>
+          <line x1="3.05" y1="3.05" x2="4.1" y2="4.1"/>
+          <line x1="11.9" y1="11.9" x2="12.95" y2="12.95"/>
+          <line x1="3.05" y1="12.95" x2="4.1" y2="11.9"/>
+          <line x1="11.9" y1="4.1" x2="12.95" y2="3.05"/>
+        </svg>
+      </button>
+    </nav>
+  </header>
+</div>
+
+<main id="main" class="wrap">
+  <article class="legal-page">
+    <a class="back" href="/">← Back to home</a>
+    <h1>Legal notice</h1>
+    <div class="meta">Publisher identification · Last updated 10 May 2026</div>
+
+    <h2>Publisher</h2>
+    <p>This website is published by:</p>
+    <p>
+      Diogo N. Moura<br/>
+      Porto, Portugal<br/>
+      Email: <a href="mailto:contact@diogonmoura.com">contact@diogonmoura.com</a>
+    </p>
+    <p>The publisher is solely and personally responsible for the content of this website. No corporate entity, employer, or third party is associated with this site or with the views expressed on it.</p>
+
+    <h2>Editorial responsibility</h2>
+    <p>Diogo N. Moura is responsible for all content published on this website (Article 13 GDPR; Portuguese Law no. 7/2004 of 7 January, on electronic commerce, where applicable).</p>
+    <p>Mentions of past or current employers (including Mercedes-Benz.io, EY and Accenture) are made for biographical purposes. The views expressed on this website are personal and do not represent the official positions of those organisations.</p>
+
+    <h2>Hosting</h2>
+    <p>This website is served as static HTML through Cloudflare's content delivery network. No application or database runs on this site.</p>
+
+    <h2>Intellectual property</h2>
+    <p>All text on this website was written by Diogo N. Moura. Trademarks and trade names mentioned (Mercedes-Benz.io, EY, Accenture, INSEAD, NOVA SBE, McKinsey & Company, and others) are the property of their respective owners and are referenced for identification purposes only.</p>
+
+    <h2>Disputes</h2>
+    <p>Any dispute relating to this website is subject to Portuguese law. The competent courts are those of the publisher's place of residence.</p>
+
+    <h2>Contact</h2>
+    <p>For any question relating to this notice, write to <a href="mailto:contact@diogonmoura.com">contact@diogonmoura.com</a>.</p>
+  </article>
+</main>
+
+<div class="wrap">
+  <footer>
+    <div>© <span id="y"></span> Diogo N. Moura · Porto</div>
+    <div class="right">
+      <a href="/legal/">Legal notice</a>
+      <a href="/privacy/">Privacy</a>
+    </div>
+  </footer>
+</div>
+
+<script>
+  document.getElementById("y").textContent = new Date().getFullYear();
+  function toggleTheme(){
+    var d = document.documentElement;
+    var next = d.dataset.theme === 'dark' ? 'light' : 'dark';
+    d.dataset.theme = next;
+    try { localStorage.setItem('theme', next); } catch(e) {}
+  }
+</script>
+</body>
+</html>
