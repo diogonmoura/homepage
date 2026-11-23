@@ -1,30 +1,30 @@
 # Diogo N. Moura
 
-> Strategy executive based in Porto, Portugal. Head of Corporate Strategy & Growth and Executive Board member at Mercedes-Benz.io since 2021, after six years in consulting at Accenture (2015 to 2017) and EY (2017 to 2021). Works with a small number of scale-up founders on strategy, AI, programme rescue and operating-model questions.
+> Strategy executive based in Porto, Portugal. Head of Corporate Strategy & Growth and Executive Board member at Mercedes-Benz.io since 2021, after six years in consulting at Accenture (2015 to 2017) and EY (2017 to 2021). Works with a small number of scale-up founders on strategy, programme rescue, operating-model and cost questions.
 
 ## What he does
 
 Fractional, advisory or short scoped engagements with scale-up founders. Four kinds of work, and most engagements mix two:
 
 - **Strategic clarity**: frame a hard decision so the founding team can make it, pick the two or three priorities that matter and drop the rest. The output is a written decision with an owner.
-- **AI strategy**: AI portfolio, operating model, governance and adoption. He wrote the internal AI strategy at Mercedes-Benz.io and directed the team that built its in-house AI agents. He also builds his own agents in Python and automations in n8n and Power Automate.
 - **Programme rescue**: get an off-track programme back under control and into production.
 - **Operating model and cost**: who decides what, how teams work together, and the cost base under it.
+- **AI adoption**: where AI is worth using in a team, and the governance around it.
 
 ## Current role (Mercedes-Benz.io, 2021 to present)
 
 - Leads a team of 7 direct reports across Portugal and Germany, including managers with their own teams.
 - Advises the CEO and Executive Board directly, and the CFO/COO weekly on business operations and target operating model.
-- Built the internal AI strategy from scratch (portfolio, operating model, governance, KPIs); his team built a set of AI agents in-house. Owns AI adoption across corporate functions and ran an AI training programme for a whole department.
 - Assessed expansion into Eastern Europe and Latin America for the board: market-entry risk, regulation, resourcing.
 - Set up the company's Portugal office and the workforce plan behind it; local headcount grew 20% in the first year.
 - Owns the staffing pipeline and leads Global Staffing, a forum of senior leaders that forecasts people demand and capacity in a time-and-materials business.
 - Brought an off-track Data Warehouse programme back under control and into production.
 - Led a cost programme that cut annual costs by 55% (partnership renegotiation, better use of resources, organisational rightsizing).
+- Wrote the internal AI strategy and leads its adoption across corporate functions.
 
 ## Earlier career
 
-- **EY Consulting, Lisbon (2017 to 2021)**: founding member of the Electricity Sector practice (Portugal, Angola, Mozambique), which became the firm's second-largest revenue source within two years. Wrote a 10-year technology and innovation roadmap for a major electricity utility. Led the PMO for a large software roll-out at a national postal company (15+ concurrent projects). Delivered change programmes affecting 3,000+ employees. Improved project margins by 35%.
+- **EY Consulting, Lisbon (2017 to 2021)**: part of the founding team of the Electricity Sector practice (Portugal, Angola, Mozambique). Wrote a 10-year technology and innovation roadmap for a major electricity utility. Led the PMO for a large software roll-out at a national postal company (15+ concurrent projects). Delivered change programmes affecting 3,000+ employees. Improved project margins by 35%.
 - **Accenture, Lisbon and Singapore (2015 to 2017)**: Workday HCM roll-out across 25+ countries in Europe, Asia-Pacific and the Americas; led cross-functional teams in 8 Asia-Pacific countries.
 
 ## Education and credentials
@@ -38,8 +38,7 @@ Fractional, advisory or short scoped engagements with scale-up founders. Four ki
 ## Side projects
 
 - jobkit: open-source job-search plugin for Claude Code, written in Python, which he maintains (https://github.com/diogonmoura/jobkit).
-- Personal AI agents in Python for meeting notes, to-dos and daily briefings.
-- A homelab he has run for eight years, now mainly used to experiment with AI.
+- A homelab he has run for eight years.
 
 ## Languages and location
 

@@ -1,6 +1,6 @@
 # Diogo N. Moura: full profile and Q&A
 
-> Diogo N. Moura is a strategy executive based in Porto, Portugal. He is Head of Corporate Strategy & Growth and an Executive Board member at Mercedes-Benz.io, and spent six years before that in consulting at Accenture and EY. He works with a small number of scale-up founders on strategy, AI, programme rescue and operating-model questions.
+> Diogo N. Moura is a strategy executive based in Porto, Portugal. He is Head of Corporate Strategy & Growth and an Executive Board member at Mercedes-Benz.io, and spent six years before that in consulting at Accenture and EY. He works with a small number of scale-up founders on strategy, programme rescue, operating-model and cost questions.
 
 Website: https://diogonmoura.com (Portuguese: https://diogonmoura.com/pt/)
 Short summary: https://diogonmoura.com/llms.txt
@@ -16,19 +16,15 @@ He takes fractional, advisory or short scoped engagements in four areas, and mos
 
 Strategic clarity: he frames a hard decision so the founding team can make it, helps pick the two or three priorities that matter and drop the rest, and makes sure the decision is written down with someone who owns it.
 
-AI strategy: AI portfolio, operating model, governance and adoption. He wrote the internal AI strategy at Mercedes-Benz.io and directed the team that built its in-house AI agents.
-
 Programme rescue: when a programme has slipped and people no longer trust the plan, he fixes governance first and then gets the team shipping again.
 
 Operating model and cost: who decides what, how teams work together, and what it costs. He advises a CFO and COO on this weekly.
 
-## Does Diogo N. Moura build AI himself or only advise on it?
-
-Both. Besides the AI strategy and agents at Mercedes-Benz.io, he builds his own AI agents in Python for meeting notes, to-dos and daily briefings, builds automations in n8n and Power Automate, and maintains jobkit, an open-source job-search plugin for Claude Code (https://github.com/diogonmoura/jobkit). He holds Claude certifications from Anthropic.
+AI adoption: where AI is worth using in a team, and the governance around it. He wrote the internal AI strategy at Mercedes-Benz.io.
 
 ## Who is Diogo N. Moura a good fit for?
 
-Scale-up founders facing a decision where getting it wrong costs months of runway: entering a new market, rolling out AI, a programme that keeps slipping, or costs that keep creeping up. He does not target corporate boards or enterprise procurement.
+Scale-up founders facing a decision where getting it wrong costs months of runway: entering a new market, a programme that keeps slipping, or costs that keep creeping up. He does not target corporate boards or enterprise procurement.
 
 ## How does an engagement with Diogo N. Moura work?
 
@@ -37,15 +33,15 @@ Fractional, advisory, or short and scoped. He takes a few clients at a time, wor
 ## What has Diogo N. Moura delivered?
 
 At Mercedes-Benz.io (2021 to present):
-- Built the internal AI strategy from scratch (portfolio, operating model, governance, KPIs) and directed the team that built a set of AI agents in-house. Owns AI adoption across corporate functions and ran AI training for a whole department.
 - Brought an off-track Data Warehouse programme back under control and into production (2025 to present).
 - Assessed expansion into Eastern Europe and Latin America for the board, covering market-entry risk, regulation and resourcing.
 - Runs the staffing pipeline and Global Staffing, a forum of senior leaders that forecasts people demand and capacity (2024 to present).
 - Cut annual costs by 55% through partnership renegotiation, better use of resources and organisational rightsizing (2023).
+- Wrote the internal AI strategy and leads its adoption across corporate functions (2026).
 - Set up the Portugal office and the workforce plan behind it; local headcount grew 20% in the first year (2021).
 
 At EY (2017 to 2021):
-- Co-founded the Electricity Sector practice, working across Portugal, Angola and Mozambique; within two years it was the firm's second-largest revenue source.
+- Was part of the founding team of the Electricity Sector practice, working across Portugal, Angola and Mozambique.
 - Wrote a 10-year technology and innovation roadmap for a major electricity utility and presented it to the management board (2020).
 - Led the PMO for a large software roll-out at a national postal company, with more than 15 projects running at once (2018).
 - Delivered change programmes affecting more than 3,000 employees across several countries.
