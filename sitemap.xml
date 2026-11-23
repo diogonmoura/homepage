@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-  PT version hidden pending owner content review (2026-05-11).
-  When restoring: re-add the /pt/ <url> block and the xhtml:link hreflang alternates.
--->
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
     <loc>https://diogonmoura.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://diogonmoura.com/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://diogonmoura.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://diogonmoura.com/" />
     <lastmod>2026-11-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://diogonmoura.com/pt/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://diogonmoura.com/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://diogonmoura.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://diogonmoura.com/" />
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
   </url>
 
 </urlset>

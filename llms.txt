@@ -1,48 +1,61 @@
 # Diogo N. Moura
 
-> Strategy operator for scale-up founders. Porto-based, works globally. Twelve years across Corporate and Consulting, currently as an Executive — most recently in the automotive technology sector at Mercedes-Benz.io, previously at EY and Accenture.
+> Strategy executive based in Porto, Portugal. Head of Corporate Strategy & Growth and Executive Board member at Mercedes-Benz.io since 2021, after six years in consulting at Accenture (2015 to 2017) and EY (2017 to 2021). Works with a small number of scale-up founders on strategy, AI, programme rescue and operating-model questions.
 
 ## What he does
 
-Fractional, advisory, or short engagements with scale-up founders. Four engagement flavours, most engagements blend two:
+Fractional, advisory or short scoped engagements with scale-up founders. Four kinds of work, and most engagements mix two:
 
-- **Strategic clarity** — frame ambiguous problems sharply enough to be decided in a room. Deliverable is a decision, not a 60-slide deck.
-- **AI strategy** — operating model and governance, not theatre. Designed an internal AI strategy from scratch in a recent corporate role.
-- **Programme rescue** — restabilise governance, rebuild stakeholder trust, ship to production when something has gone off-track.
-- **Operating model & cost** — roles, decision rights, rituals, and the cost base underneath.
+- **Strategic clarity**: frame a hard decision so the founding team can make it, pick the two or three priorities that matter and drop the rest. The output is a written decision with an owner.
+- **AI strategy**: AI portfolio, operating model, governance and adoption. He wrote the internal AI strategy at Mercedes-Benz.io and directed the team that built its in-house AI agents. He also builds his own agents in Python and automations in n8n and Power Automate.
+- **Programme rescue**: get an off-track programme back under control and into production.
+- **Operating model and cost**: who decides what, how teams work together, and the cost base under it.
 
-## Selected engagements (most recent first)
+## Current role (Mercedes-Benz.io, 2021 to present)
 
-- **Designed an internal AI strategy** — operating model, governance framework, adoption roadmap. The kind of AI work designed to outlast the next vendor pivot. (Corporate, 2026)
-- **Recovered a critical Data Warehouse programme** that had gone off-track and shipped it to production. Restabilised governance, rebuilt stakeholder confidence, delivered the launch. (Corporate, 2025 → present)
-- **Built a workforce plan for international scaling** — coordinating cross-functional teams across resource allocation and performance. The unglamorous scaffolding underneath any growth story: who, where, when, how many. (Corporate, 2024 → present)
-- **Drove a cost transformation that delivered 55% in annual savings** through partnership renegotiation, resource optimisation, and rightsizing — without breaking the operation. (Corporate, 2023)
-- **Stood up an office from zero.** +20% headcount in year one as part of a global expansion play. Took the strategic case from board approval through hiring, governance, and the first year of operation. Now part of the executive board overseeing it. (Corporate, 2021)
-- **Architected a 10-year technology & innovation roadmap for a major utility.** Long-horizon investment direction. (Consulting, 2020)
-- **Led a PMO for a large-scale software implementation** — 15+ concurrent initiatives in logistics and transportation. Programme governance at scale: cadence, dependencies, escalations. (Consulting, 2018)
-- **Led human-capital transformation across 25+ countries** and 8-country APAC integration teams. End-to-end process design, systems integration, testing at scale. (Consulting, 2017)
+- Leads a team of 7 direct reports across Portugal and Germany, including managers with their own teams.
+- Advises the CEO and Executive Board directly, and the CFO/COO weekly on business operations and target operating model.
+- Built the internal AI strategy from scratch (portfolio, operating model, governance, KPIs); his team built a set of AI agents in-house. Owns AI adoption across corporate functions and ran an AI training programme for a whole department.
+- Assessed expansion into Eastern Europe and Latin America for the board: market-entry risk, regulation, resourcing.
+- Set up the company's Portugal office and the workforce plan behind it; local headcount grew 20% in the first year.
+- Owns the staffing pipeline and leads Global Staffing, a forum of senior leaders that forecasts people demand and capacity in a time-and-materials business.
+- Brought an off-track Data Warehouse programme back under control and into production.
+- Led a cost programme that cut annual costs by 55% (partnership renegotiation, better use of resources, organisational rightsizing).
 
-## Background
+## Earlier career
 
-- **Now:** Head of Corporate Strategy & Growth, Executive Board Member at Mercedes-Benz.io Portugal.
-- **Previous:** EY (2017–2021), Accenture (2015–2017).
-- **Education:** Integrated Master in Mechanical Engineering, Faculty of Engineering, University of Porto (2009–14). Post-graduation in Applied Management, NOVA School of Business and Economics — Distinction (2018–19). Certificate in Executive Presence and Influence, INSEAD (2022–23). McKinsey Forward Program (2024).
-- **Languages:** Portuguese (native), English (full proficiency), Spanish (basic).
-- **Based:** Porto, Portugal. Works globally.
+- **EY Consulting, Lisbon (2017 to 2021)**: founding member of the Electricity Sector practice (Portugal, Angola, Mozambique), which became the firm's second-largest revenue source within two years. Wrote a 10-year technology and innovation roadmap for a major electricity utility. Led the PMO for a large software roll-out at a national postal company (15+ concurrent projects). Delivered change programmes affecting 3,000+ employees. Improved project margins by 35%.
+- **Accenture, Lisbon and Singapore (2015 to 2017)**: Workday HCM roll-out across 25+ countries in Europe, Asia-Pacific and the Americas; led cross-functional teams in 8 Asia-Pacific countries.
 
-## Audience
+## Education and credentials
 
-Scale-up founders. Not corporate boards, not enterprise procurement. People making decisions where the cost of getting it wrong is months of runway.
+- Integrated Master in Mechanical Engineering, Faculty of Engineering, University of Porto (2009 to 2014)
+- Post-graduation in Applied Management with Distinction, NOVA School of Business and Economics (2018 to 2019)
+- Certificate in Executive Presence and Influence, INSEAD (2022 to 2023)
+- McKinsey Forward Program (2024)
+- Claude certifications, Anthropic (2026); Certified SAFe Agilist (2022)
+
+## Side projects
+
+- jobkit: open-source job-search plugin for Claude Code, written in Python, which he maintains (https://github.com/diogonmoura/jobkit).
+- Personal AI agents in Python for meeting notes, to-dos and daily briefings.
+- A homelab he has run for eight years, now mainly used to experiment with AI.
+
+## Languages and location
+
+Portuguese (native), English (full proficiency), Spanish (basic). Based in Porto, Portugal; works with founders anywhere.
 
 ## Contact
 
 - Email: contact@diogonmoura.com
 - LinkedIn: https://www.linkedin.com/in/diogonmoura
+- GitHub: https://github.com/diogonmoura
 - Website: https://diogonmoura.com
 
 ## Pages
 
-- [Home](https://diogonmoura.com/)
+- [Home (English)](https://diogonmoura.com/)
+- [Home (Portuguese)](https://diogonmoura.com/pt/)
 - [Full profile and Q&A](https://diogonmoura.com/llms-full.txt)
 - [Legal notice](https://diogonmoura.com/legal/)
 - [Privacy](https://diogonmoura.com/privacy/)

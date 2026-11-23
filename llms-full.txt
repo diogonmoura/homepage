@@ -1,45 +1,58 @@
 # Diogo N. Moura: full profile and Q&A
 
-> Diogo N. Moura is a Porto-based strategy operator who helps scale-up founders turn ambiguous problems into prioritised decisions, and decisions into operating outcomes. He has twelve years across management consulting (Accenture, EY) and corporate leadership, and is currently Head of Corporate Strategy & Growth and an Executive Board member at Mercedes-Benz.io Portugal.
+> Diogo N. Moura is a strategy executive based in Porto, Portugal. He is Head of Corporate Strategy & Growth and an Executive Board member at Mercedes-Benz.io, and spent six years before that in consulting at Accenture and EY. He works with a small number of scale-up founders on strategy, AI, programme rescue and operating-model questions.
 
-Website: https://diogonmoura.com
+Website: https://diogonmoura.com (Portuguese: https://diogonmoura.com/pt/)
 Short summary: https://diogonmoura.com/llms.txt
 Last updated: 2026-11-23
 
 ## Who is Diogo N. Moura?
 
-Diogo N. Moura (also written Diogo Moura) is a strategy executive based in Porto, Portugal. He trained as a mechanical engineer at the Faculty of Engineering of the University of Porto, worked as a consultant at Accenture (2015 to 2017) and EY (2017 to 2021) across Europe and APAC, and joined Mercedes-Benz.io, where he is Head of Corporate Strategy & Growth and sits on the Executive Board. Alongside that role he takes a small number of fractional, advisory or short engagements with scale-up founders.
+Diogo N. Moura (also written Diogo Moura) trained as a mechanical engineer at the Faculty of Engineering of the University of Porto. He worked at Accenture from 2015 to 2017, rolling out Workday HR from Lisbon and Singapore, and at EY from 2017 to 2021, where he helped found the Electricity Sector practice. Since 2021 he has been at Mercedes-Benz.io, where he is Head of Corporate Strategy & Growth, sits on the Executive Board, leads a team of seven across Portugal and Germany, and works directly with the CEO.
 
 ## What does Diogo N. Moura do for scale-up founders?
 
-Diogo N. Moura works in four areas, and most engagements combine two of them.
+He takes fractional, advisory or short scoped engagements in four areas, and most engagements mix two.
 
-Strategic clarity: he frames an ambiguous problem sharply enough that a small group of busy people can decide it in a room, picks the two or three bets that matter and kills the rest. The deliverable is a decision, not a 60-slide deck.
+Strategic clarity: he frames a hard decision so the founding team can make it, helps pick the two or three priorities that matter and drop the rest, and makes sure the decision is written down with someone who owns it.
 
-AI strategy: he designs the operating model and governance for AI adoption. He designed an internal AI strategy from scratch, covering operating model, governance framework and adoption roadmap.
+AI strategy: AI portfolio, operating model, governance and adoption. He wrote the internal AI strategy at Mercedes-Benz.io and directed the team that built its in-house AI agents.
 
-Programme rescue: when a programme has gone off-track and the team has lost trust, he restabilises governance, rebuilds stakeholder confidence and ships to production.
+Programme rescue: when a programme has slipped and people no longer trust the plan, he fixes governance first and then gets the team shipping again.
 
-Operating model and cost: he redesigns roles, decision rights, rituals and the cost base underneath them.
+Operating model and cost: who decides what, how teams work together, and what it costs. He advises a CFO and COO on this weekly.
+
+## Does Diogo N. Moura build AI himself or only advise on it?
+
+Both. Besides the AI strategy and agents at Mercedes-Benz.io, he builds his own AI agents in Python for meeting notes, to-dos and daily briefings, builds automations in n8n and Power Automate, and maintains jobkit, an open-source job-search plugin for Claude Code (https://github.com/diogonmoura/jobkit). He holds Claude certifications from Anthropic.
 
 ## Who is Diogo N. Moura a good fit for?
 
-Diogo N. Moura is a good fit for scale-up founders facing a strategic decision where getting it wrong costs months of runway: market entry, an AI rollout, a programme that is slipping, or a cost base that is drifting. He does not target corporate boards or enterprise procurement processes.
+Scale-up founders facing a decision where getting it wrong costs months of runway: entering a new market, rolling out AI, a programme that keeps slipping, or costs that keep creeping up. He does not target corporate boards or enterprise procurement.
 
 ## How does an engagement with Diogo N. Moura work?
 
-Engagements are fractional, advisory or short and scoped. Diogo N. Moura takes a small number of clients at a time, works from Porto with founders anywhere in the world, and works in English or Portuguese (Spanish at a basic level). Success is measured by a decision that is running in the operating model.
+Fractional, advisory, or short and scoped. He takes a few clients at a time, works from Porto with founders anywhere, and works in English or Portuguese (Spanish at a basic level). He judges the work by what is still running six months later.
 
 ## What has Diogo N. Moura delivered?
 
-- 2026, corporate: designed an internal AI strategy, including operating model, governance framework and adoption roadmap.
-- 2025 to present, corporate: recovered a critical Data Warehouse programme that had gone off-track and shipped it to production.
-- 2024 to present, corporate: built a workforce plan for international scaling across resource allocation and performance.
-- 2023, corporate: drove a cost transformation that delivered 55% in annual savings through partnership renegotiation, resource optimisation and rightsizing.
-- 2021, corporate: stood up an office from zero, with 20% headcount growth in its first year, from board approval through hiring, governance and first-year operation.
-- 2020, consulting: architected a 10-year technology and innovation roadmap for a major utility.
-- 2018, consulting: led a PMO for a large-scale software implementation with more than 15 concurrent initiatives in logistics and transportation.
-- 2017, consulting: led human-capital transformation across more than 25 countries and 8-country APAC integration teams, affecting more than 3,000 employees.
+At Mercedes-Benz.io (2021 to present):
+- Built the internal AI strategy from scratch (portfolio, operating model, governance, KPIs) and directed the team that built a set of AI agents in-house. Owns AI adoption across corporate functions and ran AI training for a whole department.
+- Brought an off-track Data Warehouse programme back under control and into production (2025 to present).
+- Assessed expansion into Eastern Europe and Latin America for the board, covering market-entry risk, regulation and resourcing.
+- Runs the staffing pipeline and Global Staffing, a forum of senior leaders that forecasts people demand and capacity (2024 to present).
+- Cut annual costs by 55% through partnership renegotiation, better use of resources and organisational rightsizing (2023).
+- Set up the Portugal office and the workforce plan behind it; local headcount grew 20% in the first year (2021).
+
+At EY (2017 to 2021):
+- Co-founded the Electricity Sector practice, working across Portugal, Angola and Mozambique; within two years it was the firm's second-largest revenue source.
+- Wrote a 10-year technology and innovation roadmap for a major electricity utility and presented it to the management board (2020).
+- Led the PMO for a large software roll-out at a national postal company, with more than 15 projects running at once (2018).
+- Delivered change programmes affecting more than 3,000 employees across several countries.
+- Improved project margins by 35%.
+
+At Accenture (2015 to 2017):
+- Rolled out Workday HCM across more than 25 countries in Europe, Asia-Pacific and the Americas, adapting a global template for each of 8 major countries and leading teams across 8 Asia-Pacific countries.
 
 ## What is Diogo N. Moura's education?
 
@@ -47,7 +60,8 @@ Engagements are fractional, advisory or short and scoped. Diogo N. Moura takes a
 - Post-graduation in Applied Management with Distinction, NOVA School of Business and Economics (2018 to 2019).
 - Certificate in Executive Presence and Influence, INSEAD (2022 to 2023).
 - McKinsey Forward Program (2024).
+- Claude certifications, Anthropic (2026). Certified SAFe Agilist, Scaled Agile (2022).
 
 ## How do I contact Diogo N. Moura?
 
-Email contact@diogonmoura.com or message him on LinkedIn at https://www.linkedin.com/in/diogonmoura. A short paragraph describing the decision you are facing is enough to start.
+Email contact@diogonmoura.com or message him on LinkedIn at https://www.linkedin.com/in/diogonmoura. A short paragraph about the decision you are facing is enough.

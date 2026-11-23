@@ -38,7 +38,7 @@ npx wrangler pages deploy . --project-name=diogonmoura --branch=main
 ## Languages
 
 - **English** — public.
-- **Portuguese** — present at `/pt/` but `noindex,nofollow` and not linked from any EN page. Pending content review before going public. To unhide later: remove `<meta name="robots" content="noindex, nofollow">` from `pt/index.html`, restore the EN→PT toggles in the topbar/footer of EN pages, restore hreflang alternates, re-add `/pt/` to `sitemap.xml`.
+- **Portuguese**: public at `/pt/`, with hreflang alternates on every page and in `sitemap.xml`.
 
 ## Structure
 
@@ -46,12 +46,13 @@ npx wrangler pages deploy . --project-name=diogonmoura --branch=main
 /                       EN home (single-page sections)
 /legal/                 EN legal notice
 /privacy/               EN privacy policy
-/pt/                    PT mirror — currently hidden
-/pt/aviso-legal/        PT — hidden
-/pt/privacidade/        PT — hidden
+/pt/                    PT home
+/pt/aviso-legal/        PT legal notice
+/pt/privacidade/        PT privacy
 /robots.txt             crawl directives (explicit AI-bot allow)
 /sitemap.xml
 /llms.txt               AI answer-engine summary
+/llms-full.txt          longer profile and Q&A for LLMs
 /favicon.svg            32×32 monogram
 /og.svg + og.png        OpenGraph card (1200×630)
 /_headers               Cloudflare Pages headers (HSTS, cache)
@@ -65,3 +66,7 @@ Auto-respects `prefers-color-scheme` on first visit. Manual toggle (sun/moon) in
 ## License
 
 All content © Diogo N. Moura. Not licensed for reuse.
+
+## Caching
+
+`_headers` caches `styles.css` for 30 days as immutable, so every page links it as `/styles.css?v=YYYYMMDD`. Bump the version on every CSS change or returning visitors keep the old file.
